@@ -8,16 +8,18 @@
 <hr>
 
 ### **Repository Staff:**<br>
-* [hrabia_kamien](https://github.com/git-kamien) (CEO) | [Lookup PGP key](https://pastebin.com/6i9Y0hBR) | [❤️ Buy Me a Coffee (donate)](https://buymeacoffee.com/hrabia_kamien) | Discord contact: `hrabia_kamien`
+* [hrabia_kamien](https://github.com/git-kamien) (CEO) | [Lookup My PGP key](https://pastebin.com/6i9Y0hBR) | [❤️ Buy Me a Coffee (donate)](https://buymeacoffee.com/hrabia_kamien) | Discord contact: `hrabia_kamien`
 
 <hr>
 
 ### **Question: How can you help us?**
 * **Report inaccuracies of assets:**<br>
 ⤷ If you notice any missing or outdated assets that should be included in this repository, create a separate issue detailing the problem. Your contribution(s) are always appreciated and help keep the collection accurate and comprehensive!
+* **Spread the word:**<br>
+⤷ Help us grow after by spreading the link to the repository further to friends / other developer's, every mention increases the chances of finding the currently missing puzzle pieces!
 * **Share your archive(s) with us:**<br>
-⤷ If you have any archives with assets you would like to share with the community, please contact the repository staff. We will verify the data provided and if your contribution is significant, you can be enshrined in the hall of fame if you wish!<br>
-* **How to properly prepare the archive?**<br> ⤷ Make sure all assets are saved in `/obrazki/(miasta|itemy|npc)/assetName.(gif|png)` or other similar identifiable format.
+⤷ If you have any archives with assets you would like to share with the community, please contact the repository staff. We will verify the data provided and if your contribution is significant, you can be enshrined in the hall of fame if you wish!<br><br>
+*Question: How to properly prepare the archive before share?*<br> *⤷ Make sure all assets are saved in `/obrazki/(miasta|itemy|npc)/assetName.(gif|png)` or other similar identifiable format.*
 <hr>
 
 ### **🏆 Hall of contributor fame:**<br>
